@@ -1,1 +1,0 @@
-https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.apex_schema
